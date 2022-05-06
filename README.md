@@ -2,6 +2,10 @@
 
 ### It enables users to pick colors and see their respective colo codes. These color codes can be used when on eis working on a project.
 
+### Homepage
+![Colorpicker Homepage](colorpicker.png)
+
+### Demo video
 <p align="center">
   <a href='https://yaireo.github.io/color-picker/'>
     <img src="./demo.apng?sanitize=true" alt="color picker demo video"/>
@@ -17,9 +21,9 @@
   <img src="https://badgen.net/npm/dw/@yaireo/color-picker?color=blue" />
 </p>
 
-<h1 align="center">
+<h5 align="center">
   Minimal, 5KB Color-Picker in Vanila-js
-</h1>
+</h5>
 
 
 **⚠️ Supported only in modern browsers**
@@ -176,3 +180,7 @@ resizeObserver.observe(document.body)
 |------------------|-----------------------|-------------------------------------------------------------------------------|
 | `setColor`       | `String`              | Sets the instance color
 | `getColorFormat` | `String`              | Gets the format of a color string: `hex`, `rgba` or `hsla`
+
+
+### License
+Distributed under MIT license.
