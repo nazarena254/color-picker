@@ -1,3 +1,7 @@
+# Colorpicker
+
+### It enables users to pick colors and see their respective colo codes. These color codes can be used when on eis working on a project.
+
 <p align="center">
   <a href='https://yaireo.github.io/color-picker/'>
     <img src="./demo.apng?sanitize=true" alt="color picker demo video"/>
