@@ -1,6 +1,6 @@
 # Colorpicker
 
-### It is aweb app that enables users to pick colors and see their respective colo codes. These color codes can be used when on eis working on a project.
+### It is a web app that enables users to pick colors and see their respective colo codes. These color codes can be used when one is working on a project.
 
 ### Homepage
 ![Colorpicker Homepage](colorpicker.png)
